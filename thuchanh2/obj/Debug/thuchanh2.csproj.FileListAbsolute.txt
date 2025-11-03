@@ -1,0 +1,9 @@
+E:\LECONGDAT_1150080130_BTTUAN8\lecongdat_1150080130_btt9\thuchanh2\bin\Debug\thuchanh2.exe.config
+E:\LECONGDAT_1150080130_BTTUAN8\lecongdat_1150080130_btt9\thuchanh2\bin\Debug\thuchanh2.exe
+E:\LECONGDAT_1150080130_BTTUAN8\lecongdat_1150080130_btt9\thuchanh2\bin\Debug\thuchanh2.pdb
+E:\LECONGDAT_1150080130_BTTUAN8\lecongdat_1150080130_btt9\thuchanh2\obj\Debug\thuchanh2.csproj.AssemblyReference.cache
+E:\LECONGDAT_1150080130_BTTUAN8\lecongdat_1150080130_btt9\thuchanh2\obj\Debug\thuchanh2.Properties.Resources.resources
+E:\LECONGDAT_1150080130_BTTUAN8\lecongdat_1150080130_btt9\thuchanh2\obj\Debug\thuchanh2.csproj.GenerateResource.cache
+E:\LECONGDAT_1150080130_BTTUAN8\lecongdat_1150080130_btt9\thuchanh2\obj\Debug\thuchanh2.csproj.CoreCompileInputs.cache
+E:\LECONGDAT_1150080130_BTTUAN8\lecongdat_1150080130_btt9\thuchanh2\obj\Debug\thuchanh2.exe
+E:\LECONGDAT_1150080130_BTTUAN8\lecongdat_1150080130_btt9\thuchanh2\obj\Debug\thuchanh2.pdb
